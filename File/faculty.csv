@@ -1,0 +1,66 @@
+S.N.,Name,Faculty,Degree,University,Gender,Department
+a,Dummy Data,abc,Masters in Physics,TU,Mrs,
+1,Anjali Gurung,Elementary Educator,Bachelor in Arts,Tribhuvan University ,Mrs,Elementary Educator
+2,Ankita Pokharel,Elementary Educator,MBA,TU,Mrs,Elementary Educator
+3,Bindu Paudel,"Faculty, Nepali Language Department",,,Mrs,Nepali/Sanskrit
+4,Bishnu Prasad Parajuli,"Faculty, Sanskrit Language Department",,,Mr,Nepali/Sanskrit
+5,Chanda Pandey,Elementary Educator,Masters in Business Studies,TU,Mr,Elementary Educator
+6,Dhanshwor Yonghan,"Faculty, Chemistry Department",Masters in Chemistry,Tribhuvan University,Mr,Science
+7,Hama Rajbhandari,Deputy Head of Elementary School | Elementary Educator,Masters in English,Tribhuvan University,Mr,Elementary Educator
+8,Hangkeng Rai,Elementary Educator,,,Mr,Elementary Educator
+9,Hari Prasad Subedi,"Faculty, Sanskrit Language Department",Masters in sanskrit and Masters in nepali,N.S.U and TU,Mr,Nepali/Sanskrit
+10,Kuldeep Kumar Gupta,"Faculty, Science Department",,,Mr,Science
+11,Laxman Jari,"Faculty, Social Studies Department",MBS ,TU,Mr,Social Studies
+12,Laxmi Tiwari,"Faculty, Nepali Language Department",,,Mrs,Nepali/Sanskrit
+13,Madhu Sudhan Bhusal,"Faculty, Physics Department",,,Mrs,Science
+14,Manisha Adhikari,"Faculty, Mathematics Department",Bachelors in Microbiology,Tribhuvan University,Mrs,Mathematics
+15,Mazina Rajopadhyaya,"Faculty,Science High school",Masters in Physics,Tribhuvan University,Mrs,Science
+16,Nemjala Bajracharya,Elementary Educator,,,Mrs,Elementary Educator
+17,Prabesh Satyal,Faculty,,,Mr,Faculty
+18,Reshika Joshi,"Faculty, English Language Department",,,Mrs,English
+19,Ruby Labh,"Faculty, Mathematics Department",,,Mrs,Mathematics
+20,Sabina Maharjan,Elementary Educator,,,Mrs,Elementary Educator
+21,Sabina Rai,Elementary Educator,,,Mrs,Elementary Educator
+22,Sabita Gyawali,Elementary Educator,Masters in Nepali,Tribhuvan University,Mrs,Elementary Educator
+23,Sagina Maharjan,"Faculty, Chemistry Department",Masters in Chemistry,Tribhuvan University,Mrs,Science
+24,Samyo Hangma Rai,"Faculty, English Language Department",Bachelors in Arts and Social Work,Tribhuvan University,Mrs,English
+25,Santosh Kumar Sahu,"Faculty, Computer Science Department",BE IT,Pokhara University,Mr,Computer Science
+26,Sapana Lama,"Faculty, Science Department",,,Mrs,Science
+27,Sarina Maharjan,Elementary Educator,Bachelor in Arts ,Tribhuvan University ,Mrs,Elementary Educator
+28,Saroj Tenga Rai,"Faculty, Mathematics Department",,,Mr,Mathematics
+29,Shusila Karki,Elementary Educator,,,Mrs,Elementary Educator
+30,Tej Prasad Kafle,Middle School Head,,,Mr,Faculty
+31,Tulasa Karki,Office Assistant,,,Mrs,Faculty
+32,Youbraj Aryal,"Faculty, Nepali Language Department",,,Mr,Nepali/Sanskrit
+33,Yukta Burma Gurung,"Faculty, Social Studies Department",,,Mrs,Social Studies
+34,Sindhu Poudel,Elementary Educator,Bachelor in Education,Tribhuvan University,Mrs,Elementary Educator
+35,Aakash Chandra Giri,"Faculty, Physics Department",Master in Physics,Tribhuvan University ,Mr,Science
+36,Neha Roy,"Faculty, Mathematics Department",Bachelors in Environmental Science ,Tribhuvan University ,Mrs,Mathematics
+37,Prayush Shrestha,"Faculty, Computer Science Department",,,Mr,Computer Science
+38,Rahul Manandhar,"Music Teacher, ECA Department",,,Mr,Music/Dance/Eca
+39,Sabin Bhattarai,"Chess Teacher, ECA Department",,,Mr,Music/Dance/Eca
+40,Jeevan Sinkemana,"Futsal Teacher, ECA Department",,,Mr,Music/Dance/Eca
+41,Binesh Khaniya,"TT Teacher, ECA Department",,,Mr,Music/Dance/Eca
+42,Janak Rai,"Swimming Teacher, ECA Department",,,Mr,Music/Dance/Eca
+43,Manisha Khadka,"Badminton, ECA Department",,,MR,Music/Dance/Eca
+44,Asmita Khanal,"Gymnastic, ECA Department",,,Mrs,Music/Dance/Eca
+45,Dwarika Poudel,"Yog Teacher, ECA Department",,,Mrs,Music/Dance/Eca
+46,Rameshwori Kisi,"Dance Teacher, ECA Department",,,Mr,Music/Dance/Eca
+47,Yunisha Shrestha,"Art Teacher, ECA Department",,,Mrs,Music/Dance/Eca
+48,Sanjog Malla,"Music Teacher, ECA Department",,,Mr,Music/Dance/Eca
+49,Samyukta Shakya,"Sports Teacher, ECA Department",,,Mr,Music/Dance/Eca
+50,Jeevan Khulal Magar,"ITF Teacher, ECA Department",,,Mr,Music/Dance/Eca
+51,Durga Bahadur Thapa,"Basketball Teacher, ECA Department",,,Mr,Music/Dance/Eca
+52,Sitaram Bhujel/Rajan Bhujel,"Theater Teacher, ECA Department",,,Mr,Music/Dance/Eca
+53,Anushka Maharjan,"Faculty, Computer Science Department",,,Mrs,Computer Science
+54,Kiran Purja Pun,Instructor,,,Mr,Instructor
+55,Ambar Bahadur Syangtan,Instructor,,,Mr,Instructor
+56,Pallabi Chattopadhyay,Instructor,,,Mr,Nepali/Sanskrit
+57,Krita Bajracharya,"Faculty, Nepal Bhasa Department",Bachelor in Environmental Science and Masters in NepalBhasa ,T.U,Mrs,Instructor
+58,Dr. Lekh Nath Yadav,Instructor,Ph. D. ,SNU. India,Mr,Instructor
+59,Yadav Chandra Magar,"Lab Assistant, Science Department",,,Mr,Science
+60,Ram Darash Pandey,Instructor,,,Mr,Instructor
+61,Sayal Baidya,"Faculty, Computer Science Department",,,Mr,Computer Science
+62,Basu Dev Ghimire,Instructor Physics Department ,PhD (Space Physics) ,"Institute of Science and Technology (IoST),Tribhuvan University ",Mr,Instructor
+63,Saugat Sigdel,Instructor,,,Mr,Instructor
+64,Umesh Regmi,"Faculty, Computer Science Department",,,Mr,Computer Science

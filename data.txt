@@ -1,0 +1,558 @@
+1: 
+name: Anjali Gurung
+faculty: Elementary Educator
+degree: Bachelor in Arts
+university: Tribhuvan University 
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Anjali Gurung is an Elementary Educator
+nepali_name: Aन्जलि Gउरुङ्
+2: 
+name: Ankita Pokharel
+faculty: Elementary Educator
+degree: MBA
+university: TU
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Ankita Pokharel is an Elementary Educator
+nepali_name: Aन्कित Pओखरेल्
+3: 
+name: Bindu Paudel
+faculty: Faculty, Nepali Language Department
+degree: nan
+university: nan
+gender: Mrs
+department: Nepali/Sanskrit
+description: Mrs. Bindu Paudel is a Faculty in Nepali Language Department
+nepali_name: Bइन्दु Pअउदेल्
+4: 
+name: Bishnu Prasad Parajuli
+faculty: Faculty, Sanskrit Language Department
+degree: nan
+university: nan
+gender: Mr
+department: Nepali/Sanskrit
+description: Mr. Bishnu Prasad Parajuli is a Faculty in Sanskrit Language Department
+nepali_name: Bइश्नु Pरसद् Pअरजुलि
+5: 
+name: Chanda Pandey
+faculty: Elementary Educator
+degree: Masters in Business Studies
+university: TU
+gender: Mr
+department: Elementary Educator
+description: Mr. Chanda Pandey is an Elementary Educator
+nepali_name: Cहन्द Pअन्देय्
+6: 
+name: Dhanshwor Yonghan
+faculty: Faculty, Chemistry Department
+degree: Masters in Chemistry
+university: Tribhuvan University
+gender: Mr
+department: Science
+description: Mr. Dhanshwor Yonghan is a Faculty in Chemistry Department
+nepali_name: ढन्श्वोर् Yओङ्हन्
+7: 
+name: Hama Rajbhandari
+faculty: Deputy Head of Elementary School | Elementary Educator
+degree: Masters in English
+university: Tribhuvan University
+gender: Mr
+department: Elementary Educator
+description: Mr. Hama Rajbhandari is a Deputy Head of Elementary School | Elementary Educator
+nepali_name: Hअम Rअज्भन्दरि
+8: 
+name: Hangkeng Rai
+faculty: Elementary Educator
+degree: nan
+university: nan
+gender: Mr
+department: Elementary Educator
+description: Mr. Hangkeng Rai is an Elementary Educator
+nepali_name: Hअङ्केङ् Rऐ
+9: 
+name: Hari Prasad Subedi
+faculty: Faculty, Sanskrit Language Department
+degree: Masters in sanskrit and Masters in nepali
+university: N.S.U and TU
+gender: Mr
+department: Nepali/Sanskrit
+description: Mr. Hari Prasad Subedi is a Faculty in Sanskrit Language Department
+nepali_name: Hअरि Pरसद् Sउबेदि
+10: 
+name: Kuldeep Kumar Gupta
+faculty: Faculty, Science Department
+degree: nan
+university: nan
+gender: Mr
+department: Science
+description: Mr. Kuldeep Kumar Gupta is a Faculty in Science Department
+nepali_name: Kउल्दीप् Kउमर् Gउप्त
+11: 
+name: Laxman Jari
+faculty: Faculty, Social Studies Department
+degree: MBS 
+university: TU
+gender: Mr
+department: Social Studies
+description: Mr. Laxman Jari is a Faculty in Social Studies Department
+nepali_name: Lअxमन् Jअरि
+12: 
+name: Laxmi Tiwari
+faculty: Faculty, Nepali Language Department
+degree: nan
+university: nan
+gender: Mrs
+department: Nepali/Sanskrit
+description: Mrs. Laxmi Tiwari is a Faculty in Nepali Language Department
+nepali_name: Lअxमि टिवरि
+13: 
+name: Madhu Sudhan Bhusal
+faculty: Faculty, Physics Department
+degree: nan
+university: nan
+gender: Mrs
+department: Science
+description: Mrs. Madhu Sudhan Bhusal is a Faculty in Physics Department
+nepali_name: ंअधु Sउधन् Bहुसल्
+14: 
+name: Manisha Adhikari
+faculty: Faculty, Mathematics Department
+degree: Bachelors in Microbiology
+university: Tribhuvan University
+gender: Mrs
+department: Mathematics
+description: Mrs. Manisha Adhikari is a Faculty in Mathematics Department
+nepali_name: ंअनिश Aधिकरि
+15: 
+name: Mazina Rajopadhyaya
+faculty: Faculty,Science High school
+degree: Masters in Physics
+university: Tribhuvan University
+gender: Mrs
+department: Science
+description: Mrs. Mazina Rajopadhyaya is a Faculty inScience High school
+nepali_name: ंअzइन Rअजोपध्यय
+16: 
+name: Nemjala Bajracharya
+faculty: Elementary Educator
+degree: nan
+university: nan
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Nemjala Bajracharya is an Elementary Educator
+nepali_name: णेम्जल Bअज्रचर्य
+17: 
+name: Prabesh Satyal
+faculty: Faculty
+degree: nan
+university: nan
+gender: Mr
+department: Faculty
+description: Mr. Prabesh Satyal is a Faculty
+nepali_name: Pरबेश् Sअत्यल्
+18: 
+name: Reshika Joshi
+faculty: Faculty, English Language Department
+degree: nan
+university: nan
+gender: Mrs
+department: English
+description: Mrs. Reshika Joshi is a Faculty in English Language Department
+nepali_name: Rएशिक Jओशि
+19: 
+name: Ruby Labh
+faculty: Faculty, Mathematics Department
+degree: nan
+university: nan
+gender: Mrs
+department: Mathematics
+description: Mrs. Ruby Labh is a Faculty in Mathematics Department
+nepali_name: Rउब्य् Lअभ्
+20: 
+name: Sabina Maharjan
+faculty: Elementary Educator
+degree: nan
+university: nan
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Sabina Maharjan is an Elementary Educator
+nepali_name: Sअबिन ंअहर्जन्
+21: 
+name: Sabina Rai
+faculty: Elementary Educator
+degree: nan
+university: nan
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Sabina Rai is an Elementary Educator
+nepali_name: Sअबिन Rऐ
+22: 
+name: Sabita Gyawali
+faculty: Elementary Educator
+degree: Masters in Nepali
+university: Tribhuvan University
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Sabita Gyawali is an Elementary Educator
+nepali_name: Sअबित Gयवलि
+23: 
+name: Sagina Maharjan
+faculty: Faculty, Chemistry Department
+degree: Masters in Chemistry
+university: Tribhuvan University
+gender: Mrs
+department: Science
+description: Mrs. Sagina Maharjan is a Faculty in Chemistry Department
+nepali_name: Sअगिन ंअहर्जन्
+24: 
+name: Samyo Hangma Rai
+faculty: Faculty, English Language Department
+degree: Bachelors in Arts and Social Work
+university: Tribhuvan University
+gender: Mrs
+department: English
+description: Mrs. Samyo Hangma Rai is a Faculty in English Language Department
+nepali_name: Sअम्यो Hअङ्म Rऐ
+25: 
+name: Santosh Kumar Sahu
+faculty: Faculty, Computer Science Department
+degree: BE IT
+university: Pokhara University
+gender: Mr
+department: Computer Science
+description: Mr. Santosh Kumar Sahu is a Faculty in Computer Science Department
+nepali_name: Sअन्तोश् Kउमर् Sअहु
+26: 
+name: Sapana Lama
+faculty: Faculty, Science Department
+degree: nan
+university: nan
+gender: Mrs
+department: Science
+description: Mrs. Sapana Lama is a Faculty in Science Department
+nepali_name: Sअपन Lअम
+27: 
+name: Sarina Maharjan
+faculty: Elementary Educator
+degree: Bachelor in Arts 
+university: Tribhuvan University 
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Sarina Maharjan is an Elementary Educator
+nepali_name: Sअरिन ंअहर्जन्
+28: 
+name: Saroj Tenga Rai
+faculty: Faculty, Mathematics Department
+degree: nan
+university: nan
+gender: Mr
+department: Mathematics
+description: Mr. Saroj Tenga Rai is a Faculty in Mathematics Department
+nepali_name: Sअरोज् टेङ Rऐ
+29: 
+name: Shusila Karki
+faculty: Elementary Educator
+degree: nan
+university: nan
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Shusila Karki is an Elementary Educator
+nepali_name: षुसिल Kअर्कि
+30: 
+name: Tej Prasad Kafle
+faculty: Middle School Head
+degree: nan
+university: nan
+gender: Mr
+department: Faculty
+description: Mr. Tej Prasad Kafle is a Middle School Head
+nepali_name: टेज् Pरसद् Kअफ्ले
+31: 
+name: Tulasa Karki
+faculty: Office Assistant
+degree: nan
+university: nan
+gender: Mrs
+department: Faculty
+description: Mrs. Tulasa Karki is an Office Assistant
+nepali_name: टुलस Kअर्कि
+32: 
+name: Youbraj Aryal
+faculty: Faculty, Nepali Language Department
+degree: nan
+university: nan
+gender: Mr
+department: Nepali/Sanskrit
+description: Mr. Youbraj Aryal is a Faculty in Nepali Language Department
+nepali_name: Yओउब्रज् Aर्यल्
+33: 
+name: Yukta Burma Gurung
+faculty: Faculty, Social Studies Department
+degree: nan
+university: nan
+gender: Mrs
+department: Social Studies
+description: Mrs. Yukta Burma Gurung is a Faculty in Social Studies Department
+nepali_name: Yउक्त Bउर्म Gउरुङ्
+34: 
+name: Sindhu Poudel
+faculty: Elementary Educator
+degree: Bachelor in Education
+university: Tribhuvan University
+gender: Mrs
+department: Elementary Educator
+description: Mrs. Sindhu Poudel is an Elementary Educator
+nepali_name: Sइन्धु Pओउदेल्
+35: 
+name: Aakash Chandra Giri
+faculty: Faculty, Physics Department
+degree: Master in Physics
+university: Tribhuvan University 
+gender: Mr
+department: Science
+description: Mr. Aakash Chandra Giri is a Faculty in Physics Department
+nepali_name: Aअकश् Cहन्द्र Gइरि
+36: 
+name: Neha Roy
+faculty: Faculty, Mathematics Department
+degree: Bachelors in Environmental Science 
+university: Tribhuvan University 
+gender: Mrs
+department: Mathematics
+description: Mrs. Neha Roy is a Faculty in Mathematics Department
+nepali_name: णेह Rओय्
+37: 
+name: Prayush Shrestha
+faculty: Faculty, Computer Science Department
+degree: nan
+university: nan
+gender: Mr
+department: Computer Science
+description: Mr. Prayush Shrestha is a Faculty in Computer Science Department
+nepali_name: Pरयुश् ष्रेस्थ
+38: 
+name: Rahul Manandhar
+faculty: Music Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Rahul Manandhar is a Music Teacher in ECA Department
+nepali_name: Rअहुल् ंअनन्धर्
+39: 
+name: Sabin Bhattarai
+faculty: Chess Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Sabin Bhattarai is a Chess Teacher in ECA Department
+nepali_name: Sअबिन् Bहत्तरै
+40: 
+name: Jeevan Sinkemana
+faculty: Futsal Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Jeevan Sinkemana is a Futsal Teacher in ECA Department
+nepali_name: Jई भन् Sइन्केमन
+41: 
+name: Binesh Khaniya
+faculty: TT Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Binesh Khaniya is a TT Teacher in ECA Department
+nepali_name: Bइनेश् Kहनिय
+42: 
+name: Janak Rai
+faculty: Swimming Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Janak Rai is a Swimming Teacher in ECA Department
+nepali_name: Jअनक् Rऐ
+43: 
+name: Manisha Khadka
+faculty: Badminton, ECA Department
+degree: nan
+university: nan
+gender: MR
+department: Music/Dance/Eca
+description: MR. Manisha Khadka is a Badminton in ECA Department
+nepali_name: ंअनिश Kहद्क
+44: 
+name: Asmita Khanal
+faculty: Gymnastic, ECA Department
+degree: nan
+university: nan
+gender: Mrs
+department: Music/Dance/Eca
+description: Mrs. Asmita Khanal is a Gymnastic in ECA Department
+nepali_name: Aस्मित Kहनल्
+45: 
+name: Dwarika Poudel
+faculty: Yog Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mrs
+department: Music/Dance/Eca
+description: Mrs. Dwarika Poudel is a Yog Teacher in ECA Department
+nepali_name: ड्वरिक Pओउदेल्
+46: 
+name: Rameshwori Kisi
+faculty: Dance Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Rameshwori Kisi is a Dance Teacher in ECA Department
+nepali_name: Rअमेश्वोरि Kइसि
+47: 
+name: Yunisha Shrestha
+faculty: Art Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mrs
+department: Music/Dance/Eca
+description: Mrs. Yunisha Shrestha is an Art Teacher in ECA Department
+nepali_name: Yउनिश ष्रेस्थ
+48: 
+name: Sanjog Malla
+faculty: Music Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Sanjog Malla is a Music Teacher in ECA Department
+nepali_name: Sअन्जोग् ंअल्ल
+49: 
+name: Samyukta Shakya
+faculty: Sports Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Samyukta Shakya is a Sports Teacher in ECA Department
+nepali_name: Sअम्युक्त षक्य
+50: 
+name: Jeevan Khulal Magar
+faculty: ITF Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Jeevan Khulal Magar is an ITF Teacher in ECA Department
+nepali_name: Jई भन् Kहुलल् ंअगर्
+51: 
+name: Durga Bahadur Thapa
+faculty: Basketball Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Durga Bahadur Thapa is a Basketball Teacher in ECA Department
+nepali_name: डुर्ग Bअहदुर् ठप
+52: 
+name: Sitaram Bhujel/Rajan Bhujel
+faculty: Theater Teacher, ECA Department
+degree: nan
+university: nan
+gender: Mr
+department: Music/Dance/Eca
+description: Mr. Sitaram Bhujel/Rajan Bhujel is a Theater Teacher in ECA Department
+nepali_name: Sइतरम् Bहुजेल्/Rअजन् Bहुजेल्
+53: 
+name: Anushka Maharjan
+faculty: Faculty, Computer Science Department
+degree: nan
+university: nan
+gender: Mrs
+department: Computer Science
+description: Mrs. Anushka Maharjan is a Faculty in Computer Science Department
+nepali_name: Aनुश्क ंअहर्जन्
+54: 
+name: Kiran Purja Pun
+faculty: Instructor
+degree: nan
+university: nan
+gender: Mr
+department: Instructor
+description: Mr. Kiran Purja Pun is an Instructor
+nepali_name: Kइरन् Pउर्ज Pउन्
+55: 
+name: Ambar Bahadur Syangtan
+faculty: Instructor
+degree: nan
+university: nan
+gender: Mr
+department: Instructor
+description: Mr. Ambar Bahadur Syangtan is an Instructor
+nepali_name: Aम्बर् Bअहदुर् Sयङ्तन्
+56: 
+name: Pallabi Chattopadhyay
+faculty: Instructor
+degree: nan
+university: nan
+gender: Mr
+department: Nepali/Sanskrit
+description: Mr. Pallabi Chattopadhyay is an Instructor
+nepali_name: Pअल्लबि Cहत्तोपध्यय्
+57: 
+name: Krita Bajracharya
+faculty: Faculty, Nepal Bhasa Department
+degree: Bachelor in Environmental Science and Masters in NepalBhasa 
+university: T.U
+gender: Mrs
+department: Instructor
+description: Mrs. Krita Bajracharya is a Faculty in Nepal Bhasa Department
+nepali_name: Kरित Bअज्रचर्य
+58: 
+name: Dr. Lekh Nath Yadav
+faculty: Instructor
+degree: Ph. D. 
+university: SNU. India
+gender: Mr
+department: Instructor
+description: Mr. Dr. Lekh Nath Yadav is an Instructor
+nepali_name: ड्र्। Lएख् णथ् Yअदभ्
+59: 
+name: Yadav Chandra Magar
+faculty: Lab Assistant, Science Department
+degree: nan
+university: nan
+gender: Mr
+department: Science
+description: Mr. Yadav Chandra Magar is a Lab Assistant in Science Department
+nepali_name: Yअदभ् Cहन्द्र ंअगर्
+60: 
+name: Ram Darash Pandey
+faculty: Instructor
+degree: nan
+university: nan
+gender: Mr
+department: Instructor
+description: Mr. Ram Darash Pandey is an Instructor
+nepali_name: Rअम् डरश् Pअन्देय्
+61: 
+name: Sayal Baidya
+faculty: Faculty, Computer Science Department
+degree: nan
+university: nan
+gender: Mr
+department: Computer Science
+description: Mr. Sayal Baidya is a Faculty in Computer Science Department
+nepali_name: Sअयल् Bऐद्य
+62: 
+name: Basu Dev Ghimire
+faculty: Instructor Physics Department 
+degree: PhD (Space Physics) 
+university: Institute of Science and Technology (IoST),Tribhuvan University 
+gender: Mr
+department: Instructor
+description: Mr. Basu Dev Ghimire is an Instructor Physics Department 
+nepali_name: Bअसु डेभ् Gहिमिरे
